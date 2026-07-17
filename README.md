@@ -62,7 +62,6 @@ Positive Tests
 - Get all posts
 - Validate status code
 - Validate response size
-- Validate response schema (basic keys)
 - Get single post
 
 Negative Test
