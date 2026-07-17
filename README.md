@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Testing Assignment
 
 ## Objective
@@ -79,3 +80,6 @@ Positive Tests
 Negative Test
 
 - Invalid post returns 404
+=======
+# api_automation_framework
+>>>>>>> 4eb2ea3b058b6671b0228aa717804dcb30e1467a
